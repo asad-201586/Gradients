@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/_16sdp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:text="gradient_01"
+        android:background="@drawable/gradient_01"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"/>
+
+    <Button
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:text="gradient_02"
+        android:background="@drawable/gradient_02"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"/>
+
+    <Button
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:text="gradient_03"
+        android:background="@drawable/gradient_03"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"/>
+
+    <Button
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:text="gradient_04"
+        android:background="@drawable/gradient_04"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"/>
+
+    <Button
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:text="gradient_05"
+        android:background="@drawable/gradient_05"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"/>
+
+    <Button
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:text="gradient_06"
+        android:background="@drawable/gradient_06"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"/>
+
+    <Button
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:text="gradient_07"
+        android:background="@drawable/gradient_07"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"/>
+
+    <Button
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:text="gradient_08"
+        android:background="@drawable/gradient_08"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"/>
+
+    <Button
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:text="gradient_09"
+        android:background="@drawable/gradient_09"
+        android:textSize="@dimen/_12ssp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"/>
+
+</LinearLayout>
